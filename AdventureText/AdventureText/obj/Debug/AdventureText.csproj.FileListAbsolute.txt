@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\AdventureText\AdventureText\bin\Debug\AdventureText.exe.config
+C:\Users\Student\source\repos\AdventureText\AdventureText\bin\Debug\AdventureText.exe
+C:\Users\Student\source\repos\AdventureText\AdventureText\bin\Debug\AdventureText.pdb
+C:\Users\Student\source\repos\AdventureText\AdventureText\obj\Debug\AdventureText.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\AdventureText\AdventureText\obj\Debug\AdventureText.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AdventureText\AdventureText\obj\Debug\AdventureText.exe
+C:\Users\Student\source\repos\AdventureText\AdventureText\obj\Debug\AdventureText.pdb
